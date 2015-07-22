@@ -1,0 +1,19 @@
+/*
+ Theme Name:   GENAPP
+ Description:  jQuery Mobile ready, blank Genesis child theme for development
+ Author:       Mark Bozo
+ Author URI:   http://webdesign-workshop.com
+ Version:      1.0.0
+ Template:     genesis
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.ui-mobile .ui-page {
+	position: relative;
+	min-height: 100% !important;
+}
+
+/* The above css puts jQuery Mobile pages in the pageflow and resets its default min-height property.
+**
+* Add your custom css below */
